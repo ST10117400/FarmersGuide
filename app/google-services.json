@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556615403296",
+    "project_id": "farmersguide-93ee6",
+    "storage_bucket": "farmersguide-93ee6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556615403296:android:e3e69ed2872b957898f945",
+        "android_client_info": {
+          "package_name": "com.example.farmersguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556615403296-st972tphehpfm55rd67jjr5tv40rvtal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJZbAYZlizp6U2NjdGsjnNk8JHfbGULXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556615403296-st972tphehpfm55rd67jjr5tv40rvtal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
